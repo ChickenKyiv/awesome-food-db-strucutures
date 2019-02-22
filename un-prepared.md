@@ -8,20 +8,11 @@
 - https://dba.stackexchange.com/questions/158751/when-to-add-another-lookup-table-for-the-same-field
 
 =========
-план как хранить в базе уже использованные листы и как это сделать со стороны фронтенда
+I need to have a plan about how we'll store "completed/used grocery lists". and how it will looks from frontend side
+All items will be purchased and we can just display a list - without any status and without a price.
+Find out where i keep data about favorites and display them back
 
-все айтемы станут purchased и выводить их потом уже без purchased или без цены
-
-разобраться где я спрятал фавориты и отобразить их обратно на дев версии проекта
-
-------
-
-Если говорить о будущем расширении функционала -
-то это Measurements & Unit Convertion и автоматический гросерились
-- это то что интересно делать картинки и их поддержку мы пока не добавляем,
- но loopback имеет хороший туториал на эту тему
-
------
+---
 
 
 
@@ -35,7 +26,7 @@
  weight	float	Total weight, g
  food	Food	Food
  ```
---
+---
 ```
  NutrientInfo
  Field	Type	Description
@@ -54,4 +45,4 @@
  uri	string	Ontology identifier
  label	string	Common name
  ```
- ====
+ 
