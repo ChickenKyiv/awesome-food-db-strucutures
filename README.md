@@ -182,3 +182,14 @@ Type	Web Label	   API Parameter	Definition
 https://github.com/schollz/parseingredient
 https://raw.githubusercontent.com/tabatkins/recipe-db/master/db-recipes.json
 
+
+
+
+
+Additional collections:
+- [awesome-food-collection-machine-learning](https://github.com/ChickenKyiv/awesome-food-collection-machine-learning)
+- [awesome-food-open-source](https://github.com/ChickenKyiv/awesome-food-open-source)
+- [awesome-food-tech-projects](https://github.com/ChickenKyiv/awesome-food-tech-projects)
+- [awesome-recipe-app-templates](https://github.com/ChickenKyiv/awesome-recipe-app-templates)
+- [awesome-recipe-websites](https://github.com/ChickenKyiv/awesome-recipe-websites)
+- [awesome-recipe-apis](https://github.com/ChickenKyiv/awesome-recipe-apis)
