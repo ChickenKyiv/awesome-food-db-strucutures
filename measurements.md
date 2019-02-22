@@ -4,46 +4,47 @@
 ---
 #### packages. Fractions. how covert 1 spoon, 2/5 spoon, 1/8 spoon to one number
 
-http://mathjs.org/docs/datatypes/fractions.html
-https://www.npmjs.com/browse/keyword/fraction
-https://www.npmjs.com/package/fractional-arithmetic
-https://www.npmjs.com/package/fractions
-https://www.npmjs.com/package/mathjs
-https://github.com/yisibl/num2fraction
+- http://mathjs.org/docs/datatypes/fractions.html
+- https://www.npmjs.com/browse/keyword/fraction
+- https://www.npmjs.com/package/fractional-arithmetic
+- https://www.npmjs.com/package/fractions
+- https://www.npmjs.com/package/mathjs
+- https://github.com/yisibl/num2fraction
 
 
 ------
 
-http://www.chefolicious.com/conversion/
+- http://www.chefolicious.com/conversion/
 
-http://github.extramaster.net/measurementsConverters/
-https://www.npmjs.com/package/convert-units
+- http://github.extramaster.net/measurementsConverters/
+- https://www.npmjs.com/package/convert-units
 
 
 Examples: 
-http://www.mykitchencalculator.com/kitchencalculator.html
-http://mykitchencalculator.com/recipeconverter.html
+- http://www.mykitchencalculator.com/kitchencalculator.html
+- http://mykitchencalculator.com/recipeconverter.html
 
-https://www.convert-me.com/en/convert/cooking/
+- https://www.convert-me.com/en/convert/cooking/
 
-http://www.calcul.com/show/calculator/cooking-conversion **(!)**
+- http://www.calcul.com/show/calculator/cooking-conversion **(!)**
 
-http://www.kitchencalculator.net/
-https://www.webstaurantstore.com/recipe_resizer.html
+- http://www.kitchencalculator.net/
+- https://www.webstaurantstore.com/recipe_resizer.html
 
-http://spiekermann.com/en/wp-content/uploads/2008/11/US_liquidconversion589.jpg
+- http://spiekermann.com/en/wp-content/uploads/2008/11/US_liquidconversion589.jpg
 
-http://kinja-labs.com/ingredient-cutter/
+- http://kinja-labs.com/ingredient-cutter/
 
-http://www.free-online-calculator-use.com/recipe-conversion-calculator.html
+- http://www.free-online-calculator-use.com/recipe-conversion-calculator.html
 ![image](https://user-images.githubusercontent.com/1469198/31828130-1aa4e234-b5c2-11e7-8a76-879a2d36bfcc.png)
 
 
 ---
 
 ![wnjcc](https://user-images.githubusercontent.com/1469198/31823732-b9f006a0-b5b5-11e7-8250-a1cbbff211d7.png)
+
 Nice Image, I want it on Readme
-https://gist.github.com/atherdon/3240cc17ffdcbff6533829d4d0811fda
+- https://gist.github.com/atherdon/3240cc17ffdcbff6533829d4d0811fda
 
 ```
 create table Measure (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, 
@@ -53,6 +54,7 @@ create table Measure (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 
 `INSERT INTO Measure (name) VALUES('CUP'), ('TEASPOON'), ('TABLESPOON');`
 
+---
 
 'Food Categories'
 
@@ -70,7 +72,8 @@ Desserts
 ```
 
 
----------
+---
+
 Directions
 ```
 id
@@ -80,12 +83,16 @@ prep_time
 cook_time
 ```
 
+---
+
 Measurements
 ```
 id
 ingredients_id
 name
 ```
+
+---
 
 QUANTITIES
 ```
