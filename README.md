@@ -18,6 +18,8 @@
 
 -----------------
 
+#### attrib
+
 ```
 attributes :
 course : An array of the cources associated with this recipe.
@@ -33,6 +35,8 @@ piquant : Spiciness on a range of 0 to 1.
 ```
 
 -----------
+
+#### nutritional attributes
 
 ```
 Supported Nutrition Attributes (ATTR_NAME):
@@ -55,6 +59,8 @@ ENERC_KCAL	                               Energy	              kcal
 FAT	                                       Total lipid (fat)	    gram
 VITA_IU	                                   Vitamin A, IU	      IU
 ```
+
+#### types
 
 ```
 Types
@@ -136,6 +142,8 @@ Field	Type	Description
 uri	string	Ontology identifier
 label	string	Common name
 ```
+
+#### Diet and Health Labels
 
 ```
 
