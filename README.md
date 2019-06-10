@@ -17,6 +17,7 @@
 https://myxxrecipes.com/#/recipe (This is for the concept of being able to purchase the items on your grocery list automatically. So, however the recipe calls for the system will add the item based on your measurement) They also have a separate company for the business partnerships.  With this I would say we could do it for resturants and smaller grocery stores.)
 
 https://ketofoodist.com/fast-food-restaurants-keto/ (Here is an example of a Keto food list on product hunt)
+https://nutrita.app/?ref=producthunt (Here is another) :) 
 
 
 -----------------
