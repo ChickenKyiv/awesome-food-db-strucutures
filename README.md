@@ -1,6 +1,7 @@
 # awesome-food-db-strucutures
 
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-food-db-strucutures) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-food-db-strucutures)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
 
 - https://dba.stackexchange.com/questions/145222/structure-a-database-for-a-blog
 - https://dba.stackexchange.com/search?q=recipe+database
