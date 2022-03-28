@@ -1,5 +1,3 @@
-xxx
-
 
 
 - https://dba.stackexchange.com/questions/145222/structure-a-database-for-a-blog
